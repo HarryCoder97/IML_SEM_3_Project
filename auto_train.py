@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import subprocess
 import sys
 import threading
@@ -123,7 +122,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-=======
 import subprocess
 import sys
 import threading
@@ -248,4 +246,3 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> 5e631328c3d7ad6d2e743e2326a19b3e59e14e80

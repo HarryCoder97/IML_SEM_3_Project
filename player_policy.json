@@ -1,21 +1,9 @@
-<<<<<<< HEAD
 {
   "flee_weight": 4,
   "wall_weight": 4,
   "jitter": 0.12,
   "direction_min_frames": 8,
   "direction_max_frames": 24,
-  "attempts": 118,
+  "attempts": 122,
   "last_result": "caught"
 }
-=======
-{
-  "flee_weight": 4,
-  "wall_weight": 4,
-  "jitter": 0.12,
-  "direction_min_frames": 8,
-  "direction_max_frames": 24,
-  "attempts": 118,
-  "last_result": "caught"
-}
->>>>>>> 5e631328c3d7ad6d2e743e2326a19b3e59e14e80

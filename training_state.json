@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 {
-  "epsilon": 0.03,
-  "episodes": 582
-=======
-{
-  "epsilon": 0.03,
-  "episodes": 582
->>>>>>> 5e631328c3d7ad6d2e743e2326a19b3e59e14e80
+  "epsilon": 0.24626871875,
+  "episodes": 4
 }
