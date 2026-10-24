@@ -1,9 +1,9 @@
 {
-  "flee_weight": 4,
-  "wall_weight": 4,
-  "jitter": 0.12,
+  "flee_weight": 3.97,
+  "wall_weight": 3.97,
+  "jitter": 0.13,
   "direction_min_frames": 8,
   "direction_max_frames": 24,
-  "attempts": 122,
-  "last_result": "caught"
+  "attempts": 125,
+  "last_result": "survived"
 }
